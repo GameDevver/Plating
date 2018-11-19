@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Look.cs" />
     <Compile Include="Assets\Scripts\Move.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Людмила/Documents/Plating/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
